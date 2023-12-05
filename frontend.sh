@@ -1,4 +1,4 @@
-
+#!/bin/bash
 
 # Install Nginx from Amazon Linux Extras
 sudo amazon-linux-extras install nginx1 -y
